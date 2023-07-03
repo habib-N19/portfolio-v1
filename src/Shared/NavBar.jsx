@@ -17,11 +17,13 @@ const NavBar = () => {
   ]
 
   return (
-    <nav>
-      <ul>
+    <nav className='mb-2 md:mb-6'>
+      <ul className='flex justify-end w-11/12 py-4 mx-auto md:gap-4'>
         {navItems.map(n => (
           <li key={n.url}>
-            <NavLink to={n.url}>{n.title}</NavLink>
+            <NavLink className='hover:underline' to={n.url}>
+              {n.title}
+            </NavLink>
           </li>
         ))}
       </ul>

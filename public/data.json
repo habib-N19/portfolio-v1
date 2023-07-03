@@ -1,0 +1,94 @@
+[
+    {
+        "projectName": "Project 1",
+        "className": "vertical-timeline-element--work",
+        "date": "2022 - Present",
+        "iconStyle": {
+            "background": "rgb(33, 150, 243)",
+            "color": "#fff"
+        },
+        "subtitle": "Project 1 Subtitle",
+        "content": "Project 1 Content",
+        "githubLink": "https://github.com/your-username/project1",
+        "liveDemoLink": "https://project1.example.com",
+        "description": "Brief description of Project 1",
+        "technologiesUsed": [
+            "Technology A",
+            "Technology B"
+        ],
+        "screenshots": [
+            "https://project1.example.com/screenshot1.png",
+            "https://project1.example.com/screenshot2.png"
+        ],
+        "learningExperience": "Your learning experience with Project 1"
+    },
+    {
+        "projectName": "Project 2",
+        "className": "vertical-timeline-element--work",
+        "date": "2021 - 2022",
+        "iconStyle": {
+            "background": "rgb(33, 150, 243)",
+            "color": "#fff"
+        },
+        "subtitle": "Project 2 Subtitle",
+        "content": "Project 2 Content",
+        "githubLink": "https://github.com/your-username/project2",
+        "liveDemoLink": "https://project2.example.com",
+        "description": "Brief description of Project 2",
+        "technologiesUsed": [
+            "Technology C",
+            "Technology D"
+        ],
+        "screenshots": [
+            "https://project2.example.com/screenshot1.png",
+            "https://project2.example.com/screenshot2.png"
+        ],
+        "learningExperience": "Your learning experience with Project 2"
+    },
+    {
+        "projectName": "Project 3",
+        "className": "vertical-timeline-element--work",
+        "date": "2021 - 2022",
+        "iconStyle": {
+            "background": "rgb(33, 150, 243)",
+            "color": "#fff"
+        },
+        "subtitle": "Project 2 Subtitle",
+        "content": "Project 2 Content",
+        "githubLink": "https://github.com/your-username/project2",
+        "liveDemoLink": "https://project2.example.com",
+        "description": "Brief description of Project 2",
+        "technologiesUsed": [
+            "Technology C",
+            "Technology D"
+        ],
+        "screenshots": [
+            "https://project2.example.com/screenshot1.png",
+            "https://project2.example.com/screenshot2.png"
+        ],
+        "learningExperience": "Your learning experience with Project 2"
+    },
+    {
+        "projectName": "Project 4",
+        "className": "vertical-timeline-element--work",
+        "date": "2021 - 2022",
+        "iconStyle": {
+            "background": "rgb(33, 150, 243)",
+            "color": "#fff"
+        },
+        "subtitle": "Project 2 Subtitle",
+        "content": "Project 2 Content",
+        "githubLink": "https://github.com/your-username/project2",
+        "liveDemoLink": "https://project2.example.com",
+        "description": "Brief description of Project 2",
+        "technologiesUsed": [
+            "Technology C",
+            "Technology D"
+        ],
+        "screenshots": [
+            "https://project2.example.com/screenshot1.png",
+            "https://project2.example.com/screenshot2.png"
+        ],
+        "learningExperience": "Your learning experience with Project 2"
+    }
+]
