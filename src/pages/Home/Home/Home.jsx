@@ -1,6 +1,7 @@
 import Featured from '../Featured/Featured'
 import Hero from '../Hero/Hero'
-import TimeLine2 from '../LearningTimeline/TimeLine2'
+import ProjectRepo from '../ProjectRepo/ProjectRepo'
+// import TimeLine2 from '../LearningTimeline/TimeLine2'
 // import TimeLine3 from '../LearningTimeline/TimeLine3'
 // import TimeLine from '../LearningTimeline/TimeLine'
 
@@ -10,7 +11,7 @@ const Home = () => {
       <Hero></Hero>
       {/* <TimeLine /> */}
       <Featured></Featured>
-      <TimeLine2></TimeLine2>
+      <ProjectRepo></ProjectRepo>
       {/* <TimeLine3 /> */}
     </>
   )
